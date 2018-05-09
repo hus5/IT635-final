@@ -13,3 +13,16 @@ which will be used to create low privileged user (Read Only) to search and order
 the items.
 
 Also have created a test user who would see the website as a regular website, without additional priviledge.
+
+The Features include:
+Admin Screen:
+1. Home page: Posts showing recently added products and prices.
+2. Products page: Contains products of sale. Will need to click next to see next item.
+3. About page: Information about the owner and company.
+4. Contact us page: Customer support phone number.
+
+This also features a User Login view where
+1. A user can search products by name, keyword.
+2. See the product information.
+
+
